@@ -1,3 +1,15 @@
-DotNetConsole/.vs/*
-DotNetConsole/bin/*
-DotNetConsole/obj/*
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AspDotNet/.vs
+/AspDotNet/bin
+/AspDotNet/obj
+/AspDotNet/wwwroot/lib
+/DotNetConsole/.vs/*
+/DotNetConsole/bin/*
+/DotNetConsole/obj/*
+/AspDotNet/Properties
+/AspDotNet/wwwroot/css/site.css
+/AspDotNet/wwwroot/js/site.js
+/AspDotNet/appsettings.Development.json

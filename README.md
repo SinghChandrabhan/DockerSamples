@@ -1,7 +1,7 @@
 # Sample Docker Projects:
 
 [![](https://cdn-images-1.medium.com/max/1240/1*9hGvYE5jegHm1r_97gH-jQ.png)](https://www.docker.com/)
-                                        Image is copyright of Docerk Inc.
+                                        Image is copyright of Docker Inc.
                                         
                                         
 >A collection of sample projects to learn Docker. From very basic .NetCore console app to advance Node services.
